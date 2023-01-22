@@ -7,20 +7,20 @@ class AboutV1 extends Component {
     let publicUrl = process.env.PUBLIC_URL + "/";
 
     return (
-      <div className='ltn__about-us-area pt-120 pb-90 '>
+      <div className='le__about-us-area pt-120 pb-90 '>
         <div className='container'>
           <div className='row'>
             <div className='col-lg-6 align-self-center'>
               <div className='about-us-img-wrap about-img-left'>
                 <img src={publicUrl + "assets/img/others/8_600x600.jpg"} alt='About Us Image' />
                 <div className='about-us-img-info about-us-img-info-2 about-us-img-info-3'>
-                  <div className='ltn__video-img ltn__animation-pulse1'>
+                  <div className='le__video-img le__animation-pulse1'>
                     <img
                       src={publicUrl + "assets/img/others/man-giving-some-keys-woman_23-2148252120.jpg"}
                       alt='video popup bg image'
                     />
                     <a
-                      className='ltn__video-icon-2 ltn__video-icon-2-border---'
+                      className='le__video-icon-2 le__video-icon-2-border---'
                       href='https://www.youtube.com/embed/X7R-q9rsrtU?autoplay=1&showinfo=0'
                       data-rel='lightcase:myCollection'
                     >
@@ -32,8 +32,8 @@ class AboutV1 extends Component {
             </div>
             <div className='col-lg-6 align-self-center'>
               <div className='about-us-info-wrap'>
-                <div className='section-title-area ltn__section-title-2--- mb-20'>
-                  <h6 className='section-subtitle section-subtitle-2 ltn__secondary-color'>About Us</h6>
+                <div className='section-title-area le__section-title-2--- mb-20'>
+                  <h6 className='section-subtitle section-subtitle-2 le__secondary-color'>About Us</h6>
                   <h1 className='section-title'>
                     The Leading Real Estate Rental Marketplace<span>.</span>
                   </h1>
@@ -42,7 +42,7 @@ class AboutV1 extends Component {
                     global coverage, combined with specialist services
                   </p>
                 </div>
-                <ul className='ltn__list-item-half clearfix'>
+                <ul className='le__list-item-half clearfix'>
                   <li>
                     <i className='flaticon-home-2' />
                     Smart Home Design
@@ -60,7 +60,7 @@ class AboutV1 extends Component {
                     Complete 24/7 Security
                   </li>
                 </ul>
-                <div className='ltn__callout bg-overlay-theme-05  mt-30'>
+                <div className='le__callout bg-overlay-theme-05  mt-30'>
                   <p>
                     "Enimad minim veniam quis nostrud exercitation <br />
                     llamco laboris. Lorem ipsum dolor sit amet"{" "}

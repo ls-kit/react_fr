@@ -9,19 +9,19 @@ class Banner extends Component {
     let imagealt = "image";
 
     return (
-      <div className='ltn__slider-area ltn__slider-3  section-bg-1 go-top'>
-        <div className='ltn__slide-one-active slick-slide-arrow-1 slick-slide-dots-1'>
-          {/* ltn__slide-item */}
-          <div className='ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal ltn__slide-item-3'>
-            <div className='ltn__slide-item-inner'>
+      <div className='le__slider-area le__slider-3  section-bg-1 go-top'>
+        <div className='le__slide-one-active slick-slide-arrow-1 slick-slide-dots-1'>
+          {/* le__slide-item */}
+          <div className='le__slide-item le__slide-item-2 le__slide-item-3-normal le__slide-item-3'>
+            <div className='le__slide-item-inner'>
               <div className='container'>
                 <div className='row'>
                   <div className='col-lg-12 align-self-center'>
                     <div className='slide-item-info'>
-                      <div className='slide-item-info-inner ltn__slide-animation'>
+                      <div className='slide-item-info-inner le__slide-animation'>
                         <div className='slide-video mb-50 d-none'>
                           <a
-                            className='ltn__video-icon-2 ltn__video-icon-2-border'
+                            className='le__video-icon-2 le__video-icon-2-border'
                             href='https://www.youtube.com/embed/tlThdr3O5Qo'
                             data-rel='lightcase:myCollection'
                           >
@@ -48,11 +48,11 @@ class Banner extends Component {
                             Make An Enquiry
                           </Link>
                           <a
-                            className='ltn__video-play-btn bg-white'
+                            className='le__video-play-btn bg-white'
                             href='https://www.youtube.com/embed/HnbMYzdjuBs?autoplay=1&showinfo=0'
                             data-rel='lightcase'
                           >
-                            <i className='icon-play  ltn__secondary-color' />
+                            <i className='icon-play  le__secondary-color' />
                           </a>
                         </div>
                       </div>
@@ -65,14 +65,14 @@ class Banner extends Component {
               </div>
             </div>
           </div>
-          {/* ltn__slide-item */}
-          <div className='ltn__slide-item ltn__slide-item-2  ltn__slide-item-3-normal ltn__slide-item-3'>
-            <div className='ltn__slide-item-inner  text-right text-end'>
+          {/* le__slide-item */}
+          <div className='le__slide-item le__slide-item-2  le__slide-item-3-normal le__slide-item-3'>
+            <div className='le__slide-item-inner  text-right text-end'>
               <div className='container'>
                 <div className='row'>
                   <div className='col-lg-12 align-self-center'>
                     <div className='slide-item-info'>
-                      <div className='slide-item-info-inner ltn__slide-animation'>
+                      <div className='slide-item-info-inner le__slide-animation'>
                         <h6 className='slide-sub-title white-color--- animated'>
                           <span>
                             <i className='fas fa-home' />

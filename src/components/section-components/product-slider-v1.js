@@ -8,20 +8,20 @@ class ProductSliderV1 extends Component {
 
     return (
       <div>
-        <div className='ltn__product-slider-area ltn__product-gutter pt-115 pb-90 plr--7'>
+        <div className='le__product-slider-area le__product-gutter pt-115 pb-90 plr--7'>
           <div className='container-fluid'>
             <div className='row'>
               <div className='col-lg-12'>
-                <div className='section-title-area ltn__section-title-2--- text-center'>
-                  <h6 className='section-subtitle section-subtitle-2 ltn__secondary-color'>Properties</h6>
+                <div className='section-title-area le__section-title-2--- text-center'>
+                  <h6 className='section-subtitle section-subtitle-2 le__secondary-color'>Properties</h6>
                   <h1 className='section-title'>Featured Listings</h1>
                 </div>
               </div>
             </div>
-            <div className='row ltn__product-slider-item-four-active-full-width slick-arrow-1'>
-              {/* ltn__product-item */}
+            <div className='row le__product-slider-item-four-active-full-width slick-arrow-1'>
+              {/* le__product-item */}
               <div className='col-lg-12'>
-                <div className='ltn__product-item ltn__product-item-4 text-center---'>
+                <div className='le__product-item le__product-item-4 text-center---'>
                   <div className='product-img go-top'>
                     <Link to='/product-details'>
                       <img src={publicUrl + "assets/img/product-3/g5_thumb.jpg"} alt='#' />
@@ -72,7 +72,7 @@ class ProductSliderV1 extends Component {
                         Westbury. Newly Renovated With New Wood
                       </p>
                     </div>
-                    <ul className='ltn__list-item-2 ltn__list-item-2-before'>
+                    <ul className='le__list-item-2 le__list-item-2-before'>
                       <li>
                         <span>
                           3 <i className='flaticon-bed' />
@@ -141,9 +141,9 @@ class ProductSliderV1 extends Component {
                   </div>
                 </div>
               </div>
-              {/* ltn__product-item */}
+              {/* le__product-item */}
               <div className='col-lg-12'>
-                <div className='ltn__product-item ltn__product-item-4 text-center---'>
+                <div className='le__product-item le__product-item-4 text-center---'>
                   <div className='product-img go-top'>
                     <Link to='/product-details'>
                       <img src={publicUrl + "assets/img/product-3/g4_thumb.jpg"} alt='#' />
@@ -194,7 +194,7 @@ class ProductSliderV1 extends Component {
                         Westbury. Newly Renovated With New Wood
                       </p>
                     </div>
-                    <ul className='ltn__list-item-2 ltn__list-item-2-before'>
+                    <ul className='le__list-item-2 le__list-item-2-before'>
                       <li>
                         <span>
                           3 <i className='flaticon-bed' />
@@ -263,9 +263,9 @@ class ProductSliderV1 extends Component {
                   </div>
                 </div>
               </div>
-              {/* ltn__product-item */}
+              {/* le__product-item */}
               <div className='col-lg-12'>
-                <div className='ltn__product-item ltn__product-item-4 text-center---'>
+                <div className='le__product-item le__product-item-4 text-center---'>
                   <div className='product-img go-top'>
                     <Link to='/product-details'>
                       <img src={publicUrl + "assets/img/product-3/g11_thumb.jpg"} alt='#' />
@@ -316,7 +316,7 @@ class ProductSliderV1 extends Component {
                         Westbury. Newly Renovated With New Wood
                       </p>
                     </div>
-                    <ul className='ltn__list-item-2 ltn__list-item-2-before'>
+                    <ul className='le__list-item-2 le__list-item-2-before'>
                       <li>
                         <span>
                           3 <i className='flaticon-bed' />
@@ -385,9 +385,9 @@ class ProductSliderV1 extends Component {
                   </div>
                 </div>
               </div>
-              {/* ltn__product-item */}
+              {/* le__product-item */}
               <div className='col-lg-12'>
-                <div className='ltn__product-item ltn__product-item-4 text-center---'>
+                <div className='le__product-item le__product-item-4 text-center---'>
                   <div className='product-img go-top'>
                     <Link to='/product-details'>
                       <img src={publicUrl + "assets/img/product-3/4.jpg"} alt='#' />
@@ -438,7 +438,7 @@ class ProductSliderV1 extends Component {
                         Westbury. Newly Renovated With New Wood
                       </p>
                     </div>
-                    <ul className='ltn__list-item-2 ltn__list-item-2-before'>
+                    <ul className='le__list-item-2 le__list-item-2-before'>
                       <li>
                         <span>
                           3 <i className='flaticon-bed' />
@@ -507,9 +507,9 @@ class ProductSliderV1 extends Component {
                   </div>
                 </div>
               </div>
-              {/* ltn__product-item */}
+              {/* le__product-item */}
               <div className='col-lg-12'>
-                <div className='ltn__product-item ltn__product-item-4 text-center---'>
+                <div className='le__product-item le__product-item-4 text-center---'>
                   <div className='product-img go-top'>
                     <Link to='/product-details'>
                       <img src={publicUrl + "assets/img/product-3/5.jpg"} alt='#' />
@@ -560,7 +560,7 @@ class ProductSliderV1 extends Component {
                         Westbury. Newly Renovated With New Wood
                       </p>
                     </div>
-                    <ul className='ltn__list-item-2 ltn__list-item-2-before'>
+                    <ul className='le__list-item-2 le__list-item-2-before'>
                       <li>
                         <span>
                           3 <i className='flaticon-bed' />
@@ -634,7 +634,7 @@ class ProductSliderV1 extends Component {
           </div>
         </div>
 
-        <div className='ltn__modal-area ltn__add-to-cart-modal-area'>
+        <div className='le__modal-area le__add-to-cart-modal-area'>
           <div className='modal fade' id='liton_wishlist_modal' tabIndex={-1}>
             <div className='modal-dialog modal-md' role='document'>
               <div className='modal-content'>
@@ -644,7 +644,7 @@ class ProductSliderV1 extends Component {
                   </button>
                 </div>
                 <div className='modal-body'>
-                  <div className='ltn__quick-view-modal-inner'>
+                  <div className='le__quick-view-modal-inner'>
                     <div className='modal-product-item'>
                       <div className='row'>
                         <div className='col-12'>
@@ -684,7 +684,7 @@ class ProductSliderV1 extends Component {
           </div>
         </div>
 
-        <div className='ltn__modal-area ltn__quick-view-modal-area'>
+        <div className='le__modal-area le__quick-view-modal-area'>
           <div className='modal fade' id='quick_view_modal' tabIndex={-1}>
             <div className='modal-dialog modal-lg' role='document'>
               <div className='modal-content'>
@@ -695,7 +695,7 @@ class ProductSliderV1 extends Component {
                   </button>
                 </div>
                 <div className='modal-body'>
-                  <div className='ltn__quick-view-modal-inner'>
+                  <div className='le__quick-view-modal-inner'>
                     <div className='modal-product-item'>
                       <div className='row'>
                         <div className='col-lg-6 col-12'>
@@ -743,7 +743,7 @@ class ProductSliderV1 extends Component {
                               <span>$149.00</span>
                               <del>$165.00</del>
                             </div>
-                            <div className='modal-product-meta ltn__product-details-menu-1'>
+                            <div className='modal-product-meta le__product-details-menu-1'>
                               <ul>
                                 <li>
                                   <strong>Categories:</strong>
@@ -756,7 +756,7 @@ class ProductSliderV1 extends Component {
                                 </li>
                               </ul>
                             </div>
-                            <div className='ltn__product-details-menu-2'>
+                            <div className='le__product-details-menu-2'>
                               <ul>
                                 <li>
                                   <div className='cart-plus-minus'>
@@ -783,7 +783,7 @@ class ProductSliderV1 extends Component {
                               </ul>
                             </div>
                             <hr />
-                            <div className='ltn__social-media'>
+                            <div className='le__social-media'>
                               <ul>
                                 <li>Share:</li>
                                 <li>
@@ -819,7 +819,7 @@ class ProductSliderV1 extends Component {
           </div>
         </div>
 
-        <div className='ltn__modal-area ltn__add-to-cart-modal-area'>
+        <div className='le__modal-area le__add-to-cart-modal-area'>
           <div className='modal fade' id='add_to_cart_modal' tabIndex={-1}>
             <div className='modal-dialog modal-md' role='document'>
               <div className='modal-content'>
@@ -829,7 +829,7 @@ class ProductSliderV1 extends Component {
                   </button>
                 </div>
                 <div className='modal-body'>
-                  <div className='ltn__quick-view-modal-inner'>
+                  <div className='le__quick-view-modal-inner'>
                     <div className='modal-product-item'>
                       <div className='row'>
                         <div className='col-12'>

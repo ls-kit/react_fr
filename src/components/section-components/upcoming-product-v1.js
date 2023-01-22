@@ -8,14 +8,14 @@ class UpcomingProductV1 extends Component {
 
     return (
       <div
-        className='ltn__upcoming-project-area section-bg-1--- bg-image-top pt-115 pb-65'
+        className='le__upcoming-project-area section-bg-1--- bg-image-top pt-115 pb-65'
         data-bs-bg={publicUrl + "assets/img/bg/22.jpg"}
       >
         <div className='container'>
           <div className='row'>
             <div className='col-lg-12'>
-              <div className='section-title-area ltn__section-title-2--- text-center---'>
-                <h6 className='section-subtitle section-subtitle-2--- ltn__secondary-color--- white-color'>
+              <div className='section-title-area le__section-title-2--- text-center---'>
+                <h6 className='section-subtitle section-subtitle-2--- le__secondary-color--- white-color'>
                   Upcoming Projects
                 </h6>
                 <h1 className='section-title  white-color'>
@@ -25,19 +25,19 @@ class UpcomingProductV1 extends Component {
               </div>
             </div>
           </div>
-          <div className='row ltn__upcoming-project-slider-1-active slick-arrow-3'>
+          <div className='row le__upcoming-project-slider-1-active slick-arrow-3'>
             {/* upcoming-project-item */}
             <div className='col-lg-12'>
-              <div className='ltn__upcoming-project-item'>
+              <div className='le__upcoming-project-item'>
                 <div className='row'>
                   <div className='col-lg-7'>
-                    <div className='ltn__upcoming-project-img'>
+                    <div className='le__upcoming-project-img'>
                       <img src={publicUrl + "assets/img/product-3/3.jpg"} alt='#' />
                     </div>
                   </div>
                   <div className='col-lg-5 section-bg-1'>
-                    <div className='ltn__upcoming-project-info ltn__menu-widget'>
-                      <h6 className='section-subtitle ltn__secondary-color mb-0'>About Projects</h6>
+                    <div className='le__upcoming-project-info le__menu-widget'>
+                      <h6 className='section-subtitle le__secondary-color mb-0'>About Projects</h6>
                       <h1 className='mb-30'>Upcoming Projects</h1>
                       <ul className='mt'>
                         <li>
@@ -68,16 +68,16 @@ class UpcomingProductV1 extends Component {
             </div>
             {/* upcoming-project-item */}
             <div className='col-lg-12'>
-              <div className='ltn__upcoming-project-item'>
+              <div className='le__upcoming-project-item'>
                 <div className='row'>
                   <div className='col-lg-7'>
-                    <div className='ltn__upcoming-project-img'>
+                    <div className='le__upcoming-project-img'>
                       <img src={publicUrl + "assets/img/product-3/2.jpg"} alt='#' />
                     </div>
                   </div>
                   <div className='col-lg-5 section-bg-1'>
-                    <div className='ltn__upcoming-project-info ltn__menu-widget'>
-                      <h6 className='ltn__secondary-color'>About Projects</h6>
+                    <div className='le__upcoming-project-info le__menu-widget'>
+                      <h6 className='le__secondary-color'>About Projects</h6>
                       <h1>Upcoming Projects</h1>
                       <ul>
                         <li>
@@ -108,16 +108,16 @@ class UpcomingProductV1 extends Component {
             </div>
             {/* upcoming-project-item */}
             <div className='col-lg-12'>
-              <div className='ltn__upcoming-project-item'>
+              <div className='le__upcoming-project-item'>
                 <div className='row'>
                   <div className='col-lg-7'>
-                    <div className='ltn__upcoming-project-img'>
+                    <div className='le__upcoming-project-img'>
                       <img src={publicUrl + "assets/img/product-3/7.jpg"} alt='#' />
                     </div>
                   </div>
                   <div className='col-lg-5 section-bg-1'>
-                    <div className='ltn__upcoming-project-info ltn__menu-widget'>
-                      <h6 className='ltn__secondary-color'>About Projects</h6>
+                    <div className='le__upcoming-project-info le__menu-widget'>
+                      <h6 className='le__secondary-color'>About Projects</h6>
                       <h1>Upcoming Projects</h1>
                       <ul>
                         <li>
