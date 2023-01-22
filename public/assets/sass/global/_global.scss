@@ -48,11 +48,17 @@ font-family: 'Nunito Sans', sans-serif;
 font-family: 'Titillium Web', sans-serif;
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&family=Poppins:wght@400;500;600;700;800;900&display=swap");
+// @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&family=Poppins:wght@400;500;600;700;800;900&display=swap");
+
 /*
 font-family: 'Nunito Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
 */
+
+@import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700;800;900&display=swap");
+
+// font-family: 'Merriweather Sans', sans-serif;
+// font-family: 'Montserrat', sans-serif;
 
 /* ====================================================
     Gutter Code 
@@ -230,8 +236,8 @@ font-family: 'Poppins', sans-serif;
   // --le__heading-color: #071c1f;
   // --le__paragraph-color: #5C727D;
 
-  --le__heading-font: "Poppins", sans-serif;
-  --le__body-font: "Nunito Sans", sans-serif;
+  --le__heading-font: "Merriweather Sans", sans-serif;
+  --le__body-font: "Montserrat", sans-serif;
 
   /* Footer ACD2D8 8CB2B2  */
   --le__color-1: #8cb2b2;
