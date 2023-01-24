@@ -22,13 +22,37 @@ class ProductSliderV1 extends Component {
               {/* le__product-item */}
               <div className='col-lg-12'>
                 <div className='le__product-item le__product-item-4 text-center---'>
+                  <div>
+                    <div className='real-estate-agent'>
+                      <div className='agent-img go-top'>
+                        <Link to='/team-details'>
+                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
+                        </Link>
+                      </div>
+                      <div className='agent-brief go-top'>
+                        <h6>
+                          <Link to='/team-details'>William Seklo</Link>
+                        </h6>
+                        <small>Estate Agents</small>
+                      </div>
+                    </div>
+                    <div className='product-badge'>
+                      <ul>
+                        <li className='sale-badge bg-green'>For Rent</li>
+                      </ul>
+                    </div>
+                  </div>
                   <div className='product-img go-top'>
                     <Link to='/product-details'>
                       <img src={publicUrl + "assets/img/product-3/g5_thumb.jpg"} alt='#' />
                     </Link>
                     <div className='product-badge'>
                       <ul>
-                        <li className='sale-badge bg-green'>For Rent</li>
+                        <li className='sale-badge bg-red'>
+                          <span>
+                            $34,900<label>/Month</label>
+                          </span>
+                        </li>
                       </ul>
                     </div>
                     <div className='product-img-location-gallery'>
@@ -58,11 +82,6 @@ class ProductSliderV1 extends Component {
                     </div>
                   </div>
                   <div className='product-info'>
-                    <div className='product-price'>
-                      <span>
-                        $34,900<label>/Month</label>
-                      </span>
-                    </div>
                     <h2 className='product-title go-top'>
                       <Link to='/product-details'>New Apartment Nice View</Link>
                     </h2>
@@ -94,19 +113,6 @@ class ProductSliderV1 extends Component {
                     </ul>
                   </div>
                   <div className='product-info-bottom'>
-                    <div className='real-estate-agent'>
-                      <div className='agent-img go-top'>
-                        <Link to='/team-details'>
-                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
-                        </Link>
-                      </div>
-                      <div className='agent-brief go-top'>
-                        <h6>
-                          <Link to='/team-details'>William Seklo</Link>
-                        </h6>
-                        <small>Estate Agents</small>
-                      </div>
-                    </div>
                     <div className='product-hover-action'>
                       <ul>
                         <li>
@@ -144,13 +150,38 @@ class ProductSliderV1 extends Component {
               {/* le__product-item */}
               <div className='col-lg-12'>
                 <div className='le__product-item le__product-item-4 text-center---'>
+                  <div>
+                    <div className='real-estate-agent'>
+                      <div className='agent-img go-top'>
+                        <Link to='/team-details'>
+                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
+                        </Link>
+                      </div>
+                      <div className='agent-brief go-top'>
+                        <h6>
+                          <Link to='/team-details'>William Seklo</Link>
+                        </h6>
+                        <small>Estate Agents</small>
+                      </div>
+                    </div>
+                    <div className='product-badge'>
+                      <ul>
+                        <li className='sale-badge bg-green'>For Rent</li>
+                      </ul>
+                    </div>
+                  </div>
                   <div className='product-img go-top'>
                     <Link to='/product-details'>
                       <img src={publicUrl + "assets/img/product-3/g4_thumb.jpg"} alt='#' />
                     </Link>
                     <div className='product-badge'>
                       <ul>
-                        <li className='sale-badge bg-green---'>For Sale</li>
+                        <li className='sale-badge bg-green---'>
+                          {" "}
+                          <span>
+                            $34,900<label>/Month</label>
+                          </span>
+                        </li>
                       </ul>
                     </div>
                     <div className='product-img-location-gallery'>
@@ -180,11 +211,6 @@ class ProductSliderV1 extends Component {
                     </div>
                   </div>
                   <div className='product-info'>
-                    <div className='product-price'>
-                      <span>
-                        $34,900<label>/Month</label>
-                      </span>
-                    </div>
                     <h2 className='product-title go-top'>
                       <Link to='/product-details'>Modern Apartments</Link>
                     </h2>
@@ -216,19 +242,6 @@ class ProductSliderV1 extends Component {
                     </ul>
                   </div>
                   <div className='product-info-bottom'>
-                    <div className='real-estate-agent'>
-                      <div className='agent-img go-top'>
-                        <Link to='/team-details'>
-                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
-                        </Link>
-                      </div>
-                      <div className='agent-brief go-top'>
-                        <h6>
-                          <Link to='/team-details'>William Seklo</Link>
-                        </h6>
-                        <small>Estate Agents</small>
-                      </div>
-                    </div>
                     <div className='product-hover-action'>
                       <ul>
                         <li>
@@ -266,13 +279,37 @@ class ProductSliderV1 extends Component {
               {/* le__product-item */}
               <div className='col-lg-12'>
                 <div className='le__product-item le__product-item-4 text-center---'>
+                  <div>
+                    <div className='real-estate-agent'>
+                      <div className='agent-img go-top'>
+                        <Link to='/team-details'>
+                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
+                        </Link>
+                      </div>
+                      <div className='agent-brief go-top'>
+                        <h6>
+                          <Link to='/team-details'>William Seklo</Link>
+                        </h6>
+                        <small>Estate Agents</small>
+                      </div>
+                    </div>
+                    <div className='product-badge'>
+                      <ul>
+                        <li className='sale-badge bg-green'>For Rent</li>
+                      </ul>
+                    </div>
+                  </div>
                   <div className='product-img go-top'>
                     <Link to='/product-details'>
                       <img src={publicUrl + "assets/img/product-3/g11_thumb.jpg"} alt='#' />
                     </Link>
                     <div className='product-badge'>
                       <ul>
-                        <li className='sale-badge bg-green'>For Rent</li>
+                        <li className='sale-badge bg-green'>
+                          <span>
+                            $34,900<label>/Month</label>
+                          </span>
+                        </li>
                       </ul>
                     </div>
                     <div className='product-img-location-gallery'>
@@ -302,11 +339,6 @@ class ProductSliderV1 extends Component {
                     </div>
                   </div>
                   <div className='product-info'>
-                    <div className='product-price'>
-                      <span>
-                        $34,900<label>/Month</label>
-                      </span>
-                    </div>
                     <h2 className='product-title go-top'>
                       <Link to='/product-details'>Comfortable Apartment</Link>
                     </h2>
@@ -338,19 +370,6 @@ class ProductSliderV1 extends Component {
                     </ul>
                   </div>
                   <div className='product-info-bottom'>
-                    <div className='real-estate-agent'>
-                      <div className='agent-img go-top'>
-                        <Link to='/team-details'>
-                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
-                        </Link>
-                      </div>
-                      <div className='agent-brief go-top'>
-                        <h6>
-                          <Link to='/team-details'>William Seklo</Link>
-                        </h6>
-                        <small>Estate Agents</small>
-                      </div>
-                    </div>
                     <div className='product-hover-action'>
                       <ul>
                         <li>
@@ -388,13 +407,37 @@ class ProductSliderV1 extends Component {
               {/* le__product-item */}
               <div className='col-lg-12'>
                 <div className='le__product-item le__product-item-4 text-center---'>
-                  <div className='product-img go-top'>
-                    <Link to='/product-details'>
-                      <img src={publicUrl + "assets/img/product-3/4.jpg"} alt='#' />
-                    </Link>
+                  <div>
+                    <div className='real-estate-agent'>
+                      <div className='agent-img go-top'>
+                        <Link to='/team-details'>
+                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
+                        </Link>
+                      </div>
+                      <div className='agent-brief go-top'>
+                        <h6>
+                          <Link to='/team-details'>William Seklo</Link>
+                        </h6>
+                        <small>Estate Agents</small>
+                      </div>
+                    </div>
                     <div className='product-badge'>
                       <ul>
                         <li className='sale-badge bg-green'>For Rent</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className='product-img go-top'>
+                    <Link to='/product-details'>
+                      <img src={publicUrl + "assets/img/product-3/g5_thumb.jpg"} alt='#' />
+                    </Link>
+                    <div className='product-badge'>
+                      <ul>
+                        <li className='sale-badge bg-red'>
+                          <span>
+                            $34,900<label>/Month</label>
+                          </span>
+                        </li>
                       </ul>
                     </div>
                     <div className='product-img-location-gallery'>
@@ -424,13 +467,8 @@ class ProductSliderV1 extends Component {
                     </div>
                   </div>
                   <div className='product-info'>
-                    <div className='product-price'>
-                      <span>
-                        $34,900<label>/Month</label>
-                      </span>
-                    </div>
                     <h2 className='product-title go-top'>
-                      <Link to='/product-details'>Luxury villa in Rego Park </Link>
+                      <Link to='/product-details'>New Apartment Nice View</Link>
                     </h2>
                     <div className='product-description'>
                       <p>
@@ -460,19 +498,6 @@ class ProductSliderV1 extends Component {
                     </ul>
                   </div>
                   <div className='product-info-bottom'>
-                    <div className='real-estate-agent'>
-                      <div className='agent-img go-top'>
-                        <Link to='/team-details'>
-                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
-                        </Link>
-                      </div>
-                      <div className='agent-brief go-top'>
-                        <h6>
-                          <Link to='/team-details'>William Seklo</Link>
-                        </h6>
-                        <small>Estate Agents</small>
-                      </div>
-                    </div>
                     <div className='product-hover-action'>
                       <ul>
                         <li>
@@ -510,13 +535,38 @@ class ProductSliderV1 extends Component {
               {/* le__product-item */}
               <div className='col-lg-12'>
                 <div className='le__product-item le__product-item-4 text-center---'>
-                  <div className='product-img go-top'>
-                    <Link to='/product-details'>
-                      <img src={publicUrl + "assets/img/product-3/5.jpg"} alt='#' />
-                    </Link>
+                  <div>
+                    <div className='real-estate-agent'>
+                      <div className='agent-img go-top'>
+                        <Link to='/team-details'>
+                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
+                        </Link>
+                      </div>
+                      <div className='agent-brief go-top'>
+                        <h6>
+                          <Link to='/team-details'>William Seklo</Link>
+                        </h6>
+                        <small>Estate Agents</small>
+                      </div>
+                    </div>
                     <div className='product-badge'>
                       <ul>
                         <li className='sale-badge bg-green'>For Rent</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className='product-img go-top'>
+                    <Link to='/product-details'>
+                      <img src={publicUrl + "assets/img/product-3/g4_thumb.jpg"} alt='#' />
+                    </Link>
+                    <div className='product-badge'>
+                      <ul>
+                        <li className='sale-badge bg-green---'>
+                          {" "}
+                          <span>
+                            $34,900<label>/Month</label>
+                          </span>
+                        </li>
                       </ul>
                     </div>
                     <div className='product-img-location-gallery'>
@@ -546,13 +596,8 @@ class ProductSliderV1 extends Component {
                     </div>
                   </div>
                   <div className='product-info'>
-                    <div className='product-price'>
-                      <span>
-                        $34,900<label>/Month</label>
-                      </span>
-                    </div>
                     <h2 className='product-title go-top'>
-                      <Link to='/product-details'>Beautiful Flat in Manhattan </Link>
+                      <Link to='/product-details'>Modern Apartments</Link>
                     </h2>
                     <div className='product-description'>
                       <p>
@@ -582,19 +627,6 @@ class ProductSliderV1 extends Component {
                     </ul>
                   </div>
                   <div className='product-info-bottom'>
-                    <div className='real-estate-agent'>
-                      <div className='agent-img go-top'>
-                        <Link to='/team-details'>
-                          <img src={publicUrl + "assets/img/blog/author.jpg"} alt='#' />
-                        </Link>
-                      </div>
-                      <div className='agent-brief go-top'>
-                        <h6>
-                          <Link to='/team-details'>William Seklo</Link>
-                        </h6>
-                        <small>Estate Agents</small>
-                      </div>
-                    </div>
                     <div className='product-hover-action'>
                       <ul>
                         <li>

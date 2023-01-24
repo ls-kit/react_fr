@@ -1,0 +1,13 @@
+@import "global/global";
+
+.le__list-item-1-before li::before {
+  background-color: var(--le__paragraph-color);
+}
+
+.le__feature-info {
+  text-align: start !important;
+}
+
+.le__feature-item-6 .le__feature-info .le__service-btn {
+  justify-content: flex-start !important;
+}

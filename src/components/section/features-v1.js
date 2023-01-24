@@ -14,8 +14,8 @@ class FeaturesV1 extends Component {
           <div className='row'>
             <div className='col-lg-12'>
               <div className='section-title-area le__section-title-2--- text-center'>
-                <h6 className='section-subtitle section-subtitle-2 le__secondary-color'>Our Services</h6>
-                <h1 className='section-title'>Our Main Focus</h1>
+                <h6 className='section-subtitle'>Our Services</h6>
+                <h1 className='section-title le__secondary-color'>Our Main Focus</h1>
               </div>
             </div>
           </div>
@@ -23,7 +23,10 @@ class FeaturesV1 extends Component {
             <div className='col-lg-4 col-sm-6 col-12'>
               <div className='le__feature-item le__feature-item-6 text-center bg-white  box-shadow-1'>
                 <div className='le__feature-icon'>
-                  <img src={publicUrl + "assets/img/icons/icon-img/21.png"} alt='#' />
+                  <img
+                    src={publicUrl + "assets/img/others/sets-cooling-towers-data-center-building-1.png"}
+                    alt='#'
+                  />
                 </div>
                 <div className='le__feature-info'>
                   <h3>
@@ -42,7 +45,10 @@ class FeaturesV1 extends Component {
             <div className='col-lg-4 col-sm-6 col-12'>
               <div className='le__feature-item le__feature-item-6 text-center bg-white  box-shadow-1 active'>
                 <div className='le__feature-icon'>
-                  <img src={publicUrl + "assets/img/icons/icon-img/22.png"} alt='#' />
+                  <img
+                    src={publicUrl + "assets/img/others/sets-cooling-towers-data-center-building-2.png"}
+                    alt='#'
+                  />
                 </div>
                 <div className='le__feature-info'>
                   <h3>
@@ -61,7 +67,10 @@ class FeaturesV1 extends Component {
             <div className='col-lg-4 col-sm-6 col-12'>
               <div className='le__feature-item le__feature-item-6 text-center bg-white  box-shadow-1'>
                 <div className='le__feature-icon'>
-                  <img src={publicUrl + "assets/img/icons/icon-img/23.png"} alt='#' />
+                  <img
+                    src={publicUrl + "assets/img/others/sets-cooling-towers-data-center-building-3.png"}
+                    alt='#'
+                  />
                 </div>
                 <div className='le__feature-info'>
                   <h3>

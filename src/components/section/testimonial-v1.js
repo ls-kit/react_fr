@@ -25,12 +25,6 @@ class Testimonial extends Component {
             <div className='col-lg-4'>
               <div className='le__testimonial-item le__testimonial-item-7'>
                 <div className='le__testimoni-info'>
-                  <p>
-                    <i className='flaticon-left-quote-1' />
-                    Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt
-                    ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
-                    dolor sit amet, consecte
-                  </p>
                   <div className='le__testimoni-info-inner'>
                     <div className='le__testimoni-img'>
                       <img src={publicUrl + "assets/img/testimonial/1.jpg"} alt='#' />
@@ -40,18 +34,18 @@ class Testimonial extends Component {
                       <label>Selling Agents</label>
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
-            <div className='col-lg-4'>
-              <div className='le__testimonial-item le__testimonial-item-7'>
-                <div className='le__testimoni-info'>
                   <p>
                     <i className='flaticon-left-quote-1' />
                     Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt
                     ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
                     dolor sit amet, consecte
                   </p>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4'>
+              <div className='le__testimonial-item le__testimonial-item-7'>
+                <div className='le__testimoni-info'>
                   <div className='le__testimoni-info-inner'>
                     <div className='le__testimoni-img'>
                       <img src={publicUrl + "assets/img/testimonial/2.jpg"} alt='#' />
@@ -61,18 +55,18 @@ class Testimonial extends Component {
                       <label>Selling Agents</label>
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
-            <div className='col-lg-4'>
-              <div className='le__testimonial-item le__testimonial-item-7'>
-                <div className='le__testimoni-info'>
                   <p>
                     <i className='flaticon-left-quote-1' />
                     Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt
                     ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
                     dolor sit amet, consecte
                   </p>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4'>
+              <div className='le__testimonial-item le__testimonial-item-7'>
+                <div className='le__testimoni-info'>
                   <div className='le__testimoni-info-inner'>
                     <div className='le__testimoni-img'>
                       <img src={publicUrl + "assets/img/testimonial/3.jpg"} alt='#' />
@@ -82,27 +76,33 @@ class Testimonial extends Component {
                       <label>Selling Agents</label>
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
-            <div className='col-lg-4'>
-              <div className='le__testimonial-item le__testimonial-item-7'>
-                <div className='le__testimoni-info'>
                   <p>
                     <i className='flaticon-left-quote-1' />
                     Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt
                     ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
                     dolor sit amet, consecte
                   </p>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4'>
+              <div className='le__testimonial-item le__testimonial-item-7'>
+                <div className='le__testimoni-info'>
                   <div className='le__testimoni-info-inner'>
                     <div className='le__testimoni-img'>
-                      <img src={publicUrl + "assets/img/testimonial/4.jpg"} alt='#' />
+                      <img src={publicUrl + "assets/img/testimonial/1.jpg"} alt='#' />
                     </div>
                     <div className='le__testimoni-name-designation'>
                       <h5>James Carter</h5>
                       <label>Selling Agents</label>
                     </div>
                   </div>
+                  <p>
+                    <i className='flaticon-left-quote-1' />
+                    Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt
+                    ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um
+                    dolor sit amet, consecte
+                  </p>
                 </div>
               </div>
             </div>

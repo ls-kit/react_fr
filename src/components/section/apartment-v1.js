@@ -80,6 +80,11 @@ class ApartmentV1 extends Component {
                   <div className='le__product-tab-content-inner'>
                     <div className='row'>
                       <div className='col-lg-6'>
+                        <div className='apartments-plan-img'>
+                          <img src={publicUrl + "assets/img/others/10.png"} alt='#' />
+                        </div>
+                      </div>
+                      <div className='col-lg-6'>
                         <div className='apartments-plan-info le__secondary-bg text-color-white'>
                           <h2>Deluxe Portion</h2>
                           <p>
@@ -106,11 +111,6 @@ class ApartmentV1 extends Component {
                               </li>
                             </ul>
                           </div>
-                        </div>
-                      </div>
-                      <div className='col-lg-6'>
-                        <div className='apartments-plan-img'>
-                          <img src={publicUrl + "assets/img/others/10.png"} alt='#' />
                         </div>
                       </div>
                     </div>

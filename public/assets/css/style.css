@@ -221,12 +221,12 @@ font-family: 'Poppins', sans-serif;
     Normalize    0B2C3D
 ---------------------------------------------------- */
 :root {
-  --le__primary-color: #1ea59b;
-  --le__primary-color-2: #157771; /* Darken */
-  --le__primary-color-3: #31d1c6; /* Lighten */
-  --le__secondary-color: #34495e;
-  --le__secondary-color-2: #293a4b; /* Darken */
-  --le__secondary-color-3: #4f6d8b; /* Lighten */
+  --le__primary-color: #34495e;
+  --le__primary-color-2: #293a4b; /* Darken */
+  --le__primary-color-3: #4f6d8b; /* Lighten */
+  --le__secondary-color: #1ea59b;
+  --le__secondary-color-2: #157771; /* Darken */
+  --le__secondary-color-3: #31d1c6; /* Lighten */
   --le__heading-color: #071c1f;
   --le__paragraph-color: #5c727d;
   --le__heading-font: "Merriweather Sans", sans-serif;

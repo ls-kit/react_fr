@@ -58,7 +58,7 @@ class Banner extends Component {
                       </div>
                     </div>
                     <div className='slide-item-img'>
-                      <img src={publicUrl + "/assets/img/slider/slide2.jpg"} alt='#' />
+                      <img src={publicUrl + "/assets/img/slider/slide2.png"} alt='#' />
                     </div>
                   </div>
                 </div>
@@ -100,7 +100,7 @@ class Banner extends Component {
                       </div>
                     </div>
                     <div className='slide-item-img slide-img-left'>
-                      <img src={publicUrl + "/assets/img/slider/slide2.jpg"} alt='#' />
+                      <img src={publicUrl + "/assets/img/slider/slide2.png"} alt='#' />
                     </div>
                   </div>
                 </div>
